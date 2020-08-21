@@ -1,13 +1,13 @@
-package com.restapi.cursorestapi;
+package com.restapi.pontointeligente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CursoRestApiApplication {
+public class PontoInteligenteApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CursoRestApiApplication.class, args);
+        SpringApplication.run(PontoInteligenteApplication.class, args);
     }
 
 }

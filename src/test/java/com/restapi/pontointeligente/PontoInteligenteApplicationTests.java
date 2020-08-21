@@ -1,10 +1,10 @@
-package com.restapi.cursorestapi;
+package com.restapi.pontointeligente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursoRestApiApplicationTests {
+class PontoInteligenteApplicationTests {
 
     @Test
     void contextLoads() {
